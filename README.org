@@ -2,3 +2,5 @@
 Simple Fitbit app template that fetches data via REST API and displays it on the screen.
 
 XMLHttpRequest code from MDN Web Docs: https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseText
+
+Some code snippets from Fitbit Developer site: https://dev.fitbit.com/
