@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~4.3.0"
+  },
+  "fitbit": {
+    "appUUID": "86c6eba9-4cdd-4440-826d-6973391cf0d4",
+    "appType": "app",
+    "appDisplayName": "API",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "API"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

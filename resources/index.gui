@@ -1,0 +1,6 @@
+<svg>
+  <textarea x="0" y="0" width="100%-50" id="textarea"
+	    font-family="System-Regular" fill="white" font-size="40" font-weight="bold">
+Default content here (while fetching data).
+  </textarea>
+</svg>
